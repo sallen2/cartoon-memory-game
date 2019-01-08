@@ -8,8 +8,8 @@ View Cartoon Memories [here](http://sallen2.github.io/cartoon-memory-game)
 
 ## Built With
 
-* [React](https://reactjs.org/) - The web framework used
-* [Lodash](https://lodash.com/) - Dependency Management
+* [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+* [Lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance & extras.
 
 ## Authors
 

@@ -13,4 +13,4 @@ View Cartoon Memories [here](http://sallen2.github.io/cartoon-memory-game)
 
 ## Authors
 
-* **Stephan Allen** - [Portfolio](http://stephanallen.com/)
+**Stephan Allen** - [Portfolio](http://stephanallen.com/)

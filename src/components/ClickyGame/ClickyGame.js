@@ -56,7 +56,6 @@ class ClickyGame extends Component {
   }
 
   render() {
-    console.log(this.state)
     return (
       <div>
         <Header score={this.state.score} topScore={this.state.topScore}/>

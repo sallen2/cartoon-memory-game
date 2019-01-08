@@ -11,7 +11,7 @@ function Header(props) {
       </nav>
       <div className='jumbotron header'>
         <h1 className='text-center'>Lets play Cartoon Memories!</h1>
-        <p className='text-center lead'>Click on an image to earn points, but don't click on any more than once!</p>
+        <p className='text-center'>Click on an image to earn points, but don't click on any more than once!</p>
       </div>
     </div>
   )
